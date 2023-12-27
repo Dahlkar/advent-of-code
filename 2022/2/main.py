@@ -37,6 +37,7 @@ def first(file):
                 score += me
         print(score)
 
+
 def second(file):
     with open(file) as f:
         score = 0
